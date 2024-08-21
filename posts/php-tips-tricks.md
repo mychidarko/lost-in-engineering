@@ -1,6 +1,6 @@
 ---
 title: PHP tips and tricks
-date: 2021-03-16
+date: 2020-10-28
 author: Michael Darko
 github: mychidarko
 twitter: '@mychidarko'
