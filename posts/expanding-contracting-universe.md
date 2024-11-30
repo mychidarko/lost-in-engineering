@@ -8,7 +8,7 @@ twitter: '@mychidarko'
 
 <!-- markdownlint-disable no-bare-urls -->
 
-<img src="https://www.nasa.gov/wp-content/uploads/2023/03/main_image_deep_field_smacs0723-5mb.jpg" style="border-radius: 8px; margin-bottom: 15px;" alt="" />
+<img src="https://science.nasa.gov/wp-content/uploads/2023/09/stsci-01ga76rm0c11w977jrhgj5j26x-2.png?w=4096&format=webp" style="border-radius: 8px; margin-bottom: 15px;" alt="" />
 
 <p>
 There are many theories about the universe, but one of the most popular is the expanding universe theory. There is substancial evidence that the universe is expanding, but how is it expanding? What is it expanding into? And what if this is all deceptive and the universe is actually contracting?
@@ -45,3 +45,8 @@ Okay now for the fun part. Everything we know is falling towards the great contr
 Okay, at this point, I'm just having fun with this idea. I'm not saying that the universe is actually contracting, but it's a fun thought experiment made possible by Einstein's theory of relativity. We perceive motion, time, and space in a certain way, but it's all based on our observations at that point in time. A man in a moving train sees the trees moving backwards, but we know that the trees are actually stationary. Similarly, we see the universe expanding, but it could be contracting. It's all a matter of perspective.
 
 Anyway, I hope you enjoyed this little thought experiment. I'd love to hear what you think. **Hasta luego.**
+
+Credits:
+
+- [NASA](https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy)
+- [Image](https://science.nasa.gov/wp-content/uploads/2023/09/stsci-01ga76rm0c11w977jrhgj5j26x-2.png?w=4096&format=webp)
