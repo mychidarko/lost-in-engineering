@@ -8,7 +8,7 @@ twitter: '@mychidarko'
 
 <!-- markdownlint-disable no-bare-urls -->
 
-<img src="https://sxcontent9668.azureedge.us/cms-assets/assets/Flight_Test_2_Launch_Checkpoint_20231118_DSC_04675_2_723d9ca7e0.jpg" style="border-radius: 8px; margin-bottom: 15px;" alt="" />
+<img src="https://www.nasa.gov/wp-content/uploads/2023/03/main_image_deep_field_smacs0723-5mb.jpg" style="border-radius: 8px; margin-bottom: 15px;" alt="" />
 
 <p>
 There are many theories about the universe, but one of the most popular is the expanding universe theory. There is substancial evidence that the universe is expanding, but how is it expanding? What is it expanding into? And what if this is all deceptive and the universe is actually contracting?
